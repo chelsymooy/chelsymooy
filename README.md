@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on reusable code
-- 📫 Ask me about [@lacunose](https://github.com/lacunose) by [mail](mailto:mooychelsy@gmail.com)
+- 💬 Ask me about [@lacunose](https://github.com/lacunose)
 <!--
 **chelsymooy/chelsymooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
